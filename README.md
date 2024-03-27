@@ -16,10 +16,6 @@ port     = 22
 hostname = "wind"
 ```
 
-이 코드는 가브리엘라님이 아래 블로그에 적은 코드를 코딩 컨벤션만 조금 바꿔서 그대로 적은 것입니다.
-
-[Detailed walkthrough for a beginner Haskell program](https://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
-
 vim에서 비쥬얼 모드로 정렬하고 싶은 코드를 선택한 후에 아래처럼 입력하면 해당 코드만 정렬할 수 있습니다.
 
 ```
@@ -37,3 +33,11 @@ git clone https://github.com/nattybear/align-equals
 cd align-equals
 cabal install align-equals
 ```
+
+## 출처
+
+이 코드는 가브리엘라님이 아래 블로그에 적은 코드를 코딩 컨벤션만 조금 바꿔서 그대로 적은 것입니다.
+
+[Detailed walkthrough for a beginner Haskell program](https://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
+
+이 코드의 원래 저자는 [Gabriella Gonzalez](https://linktr.ee/gabriella439)님입니다.
