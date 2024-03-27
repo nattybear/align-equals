@@ -41,3 +41,7 @@ cabal install align-equals
 [Detailed walkthrough for a beginner Haskell program](https://www.haskellforall.com/2018/10/detailed-walkthrough-for-beginner.html)
 
 이 코드의 원래 저자는 [Gabriella Gonzalez](https://linktr.ee/gabriella439)님입니다.
+
+출처로 적은 블로그 글의 라이선스는 다음과 같습니다.
+
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.ko)
